@@ -1,3 +1,8 @@
 Übung 1.1
 
-#
+#Berechnung mit veränderbaren Variablen
+
+T_F = 78       
+T_C = 5*(T_F-32)/9
+
+print(T_C)
